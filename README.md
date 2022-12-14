@@ -24,9 +24,9 @@ A link to more information on license
 [License: Unlicense](http://unlicense.org/)
 
 ## URL
-[URL](https://simplenotes.herokuapp.com/notes)
+[URL]()
 ## Github
-[Github](https://github.com/hkim84/11-expressjs-note-taker)
+[Github]()
 
 ## Screen Print
 ![image](/images/Web%20capture_13-12-2022_173245_simplenotes.herokuapp.com.jpeg)
