@@ -4,6 +4,8 @@ const path = require('path');
 const uniqid = require('uniqid');
 const note = require('../db/db.json')
 
+
+// getting route to return saved notes in db.json
 router.get('/notes', (req, res) => {
     res.json(note);
 });
@@ -15,6 +17,7 @@ router.post('/notes', (req, res) => {
     res.json(temporalNote);
 });
 
+// deleting request to remove items
 router.delete('/notes/:id', (req,res) =>{
     const id = req.params.id;
     for (i = 0; i <note.length; i++) {
