@@ -24,8 +24,9 @@ A link to more information on license
 [License: Unlicense](http://unlicense.org/)
 
 ## URL
-![webpage](./assets/images/Web%20capture_4-12-2022_165244_.jpeg)
+[URL](https://simplenotes.herokuapp.com/notes)
 ## Github
-[Github](https://github.com/hkim84/10-Team-Profile-Generator)
+[Github](https://github.com/hkim84/11-expressjs-note-taker)
 
 ## Screen Print
+![image](/images/Web%20capture_13-12-2022_173245_simplenotes.herokuapp.com.jpeg)
